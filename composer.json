@@ -6,6 +6,18 @@
   },
   "type": "magento2-module",
   "version": "1.0.0",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Adam",
+      "email": "adam@magestore.com",
+      "homepage": "https://www.magestore.com/",
+      "role": "Developer"
+    }
+  ],
   "autoload": {
     "files": [
       "registration.php"
